@@ -12,6 +12,7 @@ account_balance = 0
 purchase_history = []
 orders = []
 spisok = []
+total_balance = 0
 
 while True:
     print('1. создать папку')
